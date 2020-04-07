@@ -1,0 +1,435 @@
+[
+  {
+    "title": "Eyal Wiener",
+    "imgUrl": "https://www.w3schools.com/w3images/avatar2.png",
+    "messages": [
+      {
+        "readAt": 1585584288724,
+        "sentAt": 1585584288724,
+        "by": "Eyal Wiener",
+        "text": "Hey are you coming for a dinner tonight?"
+      },
+      {
+        "readAt": 1585584288724,
+        "sentAt": 1585584288724,
+        "by": "Yarin Sasson",
+        "text": "Are we ordering in?"
+      },
+      {
+        "readAt": false,
+        "sentAt": 1585584288724,
+        "by": "Eyal Wiener",
+        "text": "Sushi?"
+      },
+      {
+        "readAt": false,
+        "sentAt": 1585584288724,
+        "by": "Yarin Sasson",
+        "text": "I guess it's fine as long as we order Moon"
+      }
+    ]
+  },
+  {
+    "title": "Tair Sasson",
+    "imgUrl": "https://www.w3schools.com/w3images/avatar2.png",
+
+    "messages": [
+      {
+        "readAt": 1585584288724,
+        "sentAt": 1585584288724,
+        "by": "Tair Sasson",
+        "text": "Hey are you coming for a dinner tonight?"
+      },
+      {
+        "readAt": 1585584288724,
+        "sentAt": 1585584288724,
+        "by": "Yarin Sasson",
+        "text": "Are we ordering in?"
+      },
+      {
+        "readAt": 1585584288724,
+        "sentAt": 1585584288724,
+        "by": "Tair Sasson",
+        "text": "Sushi?"
+      },
+      {
+        "readAt": null,
+        "sentAt": 1585584288724,
+        "by": "Yarin Sasson",
+        "text": "I guess it's fine as long as we order Moon  work correctly both with client-side routing and a non-root public URL."
+      }
+    ]
+  },
+  {
+    "title": "Tair Sasson",
+    "imgUrl": "https://www.w3schools.com/w3images/avatar2.png",
+
+    "messages": [
+      {
+        "readAt": 1585584288724,
+        "sentAt": 1585584288724,
+        "by": "Tair Sasson",
+        "text": "Hey are you coming for a dinner tonight?"
+      },
+      {
+        "readAt": 1585584288724,
+        "sentAt": 1585584288724,
+        "by": "Yarin Sasson",
+        "text": "Are we ordering in?"
+      },
+      {
+        "readAt": 1585584288724,
+        "sentAt": 1585584288724,
+        "by": "Tair Sasson",
+        "text": "Sushi?"
+      },
+      {
+        "readAt": 1585584288724,
+        "sentAt": 1585584288724,
+        "by": "Yarin Sasson",
+        "text": "I guess it's fine as long as we order Moon  work correctly both with client-side routing and a non-root public URL."
+      }
+    ]
+  },
+  {
+    "title": "Tair Sasson",
+    "imgUrl": "https://www.w3schools.com/w3images/avatar2.png",
+
+    "messages": [
+      {
+        "readAt": 1585584288724,
+        "sentAt": 1585584288724,
+        "by": "Tair Sasson",
+        "text": "Hey are you coming for a dinner tonight?"
+      },
+      {
+        "readAt": 1585584288724,
+        "sentAt": 1585584288724,
+        "by": "Yarin Sasson",
+        "text": "Are we ordering in?"
+      },
+      {
+        "readAt": 1585584288724,
+        "sentAt": 1585584288724,
+        "by": "Tair Sasson",
+        "text": "Sushi?"
+      },
+      {
+        "readAt": 1585584288724,
+        "sentAt": 1585584288724,
+        "by": "Yarin Sasson",
+        "text": "I guess it's fine as long as we order Moon"
+      }
+    ]
+  },
+  {
+    "title": "Tair Sasson",
+    "imgUrl": "https://www.w3schools.com/w3images/avatar2.png",
+
+    "messages": [
+      {
+        "readAt": 1585584288724,
+        "sentAt": 1585584288724,
+        "by": "Tair Sasson",
+        "text": "Hey are you coming for a dinner tonight?"
+      },
+      {
+        "readAt": 1585584288724,
+        "sentAt": 1585584288724,
+        "by": "Yarin Sasson",
+        "text": "Are we ordering in?"
+      },
+      {
+        "readAt": 1585584288724,
+        "sentAt": 1585584288724,
+        "by": "Tair Sasson",
+        "text": "Sushi?"
+      },
+      {
+        "readAt": 1585584288724,
+        "sentAt": 1585584288724,
+        "by": "Yarin Sasson",
+        "text": "I guess it's fine as long as we order Moon"
+      }
+    ]
+  },
+  {
+    "title": "Tair Sasson",
+    "imgUrl": "https://www.w3schools.com/w3images/avatar2.png",
+
+    "messages": [
+      {
+        "readAt": 1585584288724,
+        "sentAt": 1585584288724,
+        "by": "Tair Sasson",
+        "text": "Hey are you coming for a dinner tonight?"
+      },
+      {
+        "readAt": 1585584288724,
+        "sentAt": 1585584288724,
+        "by": "Yarin Sasson",
+        "text": "Are we ordering in?"
+      },
+      {
+        "readAt": 1585584288724,
+        "sentAt": 1585584288724,
+        "by": "Tair Sasson",
+        "text": "Sushi?"
+      },
+      {
+        "readAt": 1585584288724,
+        "sentAt": 1585584288724,
+        "by": "Yarin Sasson",
+        "text": "I guess it's fine as long as we order Moon"
+      }
+    ]
+  },
+  {
+    "title": "Tair Sasson",
+    "imgUrl": "https://www.w3schools.com/w3images/avatar2.png",
+
+    "messages": [
+      {
+        "readAt": 1585584288724,
+        "sentAt": 1585584288724,
+        "by": "Tair Sasson",
+        "text": "Hey are you coming for a dinner tonight?"
+      },
+      {
+        "readAt": 1585584288724,
+        "sentAt": 1585584288724,
+        "by": "Yarin Sasson",
+        "text": "Are we ordering in?"
+      },
+      {
+        "readAt": 1585584288724,
+        "sentAt": 1585584288724,
+        "by": "Tair Sasson",
+        "text": "Sushi?"
+      },
+      {
+        "readAt": 1585584288724,
+        "sentAt": 1585584288724,
+        "by": "Yarin Sasson",
+        "text": "I guess it's fine as long as we order Moon"
+      }
+    ]
+  },
+  {
+    "title": "Tair Sasson",
+    "imgUrl": "https://www.w3schools.com/w3images/avatar2.png",
+
+    "messages": [
+      {
+        "readAt": 1585584288724,
+        "sentAt": 1585584288724,
+        "by": "Tair Sasson",
+        "text": "Hey are you coming for a dinner tonight?"
+      },
+      {
+        "readAt": 1585584288724,
+        "sentAt": 1585584288724,
+        "by": "Yarin Sasson",
+        "text": "Are we ordering in?"
+      },
+      {
+        "readAt": 1585584288724,
+        "sentAt": 1585584288724,
+        "by": "Tair Sasson",
+        "text": "Sushi?"
+      },
+      {
+        "readAt": 1585584288724,
+        "sentAt": 1585584288724,
+        "by": "Yarin Sasson",
+        "text": "I guess it's fine as long as we order Moon"
+      }
+    ]
+  },
+  {
+    "title": "Tair Sasson",
+    "imgUrl": "https://www.w3schools.com/w3images/avatar2.png",
+
+    "messages": [
+      {
+        "readAt": 1585584288724,
+        "sentAt": 1585584288724,
+        "by": "Tair Sasson",
+        "text": "Hey are you coming for a dinner tonight?"
+      },
+      {
+        "readAt": 1585584288724,
+        "sentAt": 1585584288724,
+        "by": "Yarin Sasson",
+        "text": "Are we ordering in?"
+      },
+      {
+        "readAt": 1585584288724,
+        "sentAt": 1585584288724,
+        "by": "Tair Sasson",
+        "text": "Sushi?"
+      },
+      {
+        "readAt": 1585584288724,
+        "sentAt": 1585584288724,
+        "by": "Yarin Sasson",
+        "text": "I guess it's fine as long as we order Moon"
+      }
+    ]
+  },
+  {
+    "title": "Tair Sasson",
+    "imgUrl": "https://www.w3schools.com/w3images/avatar2.png",
+
+    "messages": [
+      {
+        "readAt": 1585584288724,
+        "sentAt": 1585584288724,
+        "by": "Tair Sasson",
+        "text": "Hey are you coming for a dinner tonight?"
+      },
+      {
+        "readAt": 1585584288724,
+        "sentAt": 1585584288724,
+        "by": "Yarin Sasson",
+        "text": "Are we ordering in?"
+      },
+      {
+        "readAt": 1585584288724,
+        "sentAt": 1585584288724,
+        "by": "Tair Sasson",
+        "text": "Sushi?"
+      },
+      {
+        "readAt": 1585584288724,
+        "sentAt": 1585584288724,
+        "by": "Yarin Sasson",
+        "text": "I guess it's fine as long as we order Moon"
+      }
+    ]
+  },
+  {
+    "title": "Tair Sasson",
+    "imgUrl": "https://www.w3schools.com/w3images/avatar2.png",
+
+    "messages": [
+      {
+        "readAt": 1585584288724,
+        "sentAt": 1585584288724,
+        "by": "Tair Sasson",
+        "text": "Hey are you coming for a dinner tonight?"
+      },
+      {
+        "readAt": 1585584288724,
+        "sentAt": 1585584288724,
+        "by": "Yarin Sasson",
+        "text": "Are we ordering in?"
+      },
+      {
+        "readAt": 1585584288724,
+        "sentAt": 1585584288724,
+        "by": "Tair Sasson",
+        "text": "Sushi?"
+      },
+      {
+        "readAt": 1585584288724,
+        "sentAt": 1585584288724,
+        "by": "Yarin Sasson",
+        "text": "I guess it's fine as long as we order Moon"
+      }
+    ]
+  },
+  {
+    "title": "Tair Sasson",
+    "imgUrl": "https://www.w3schools.com/w3images/avatar2.png",
+
+    "messages": [
+      {
+        "readAt": 1585584288724,
+        "sentAt": 1585584288724,
+        "by": "Tair Sasson",
+        "text": "Hey are you coming for a dinner tonight?"
+      },
+      {
+        "readAt": 1585584288724,
+        "sentAt": 1585584288724,
+        "by": "Yarin Sasson",
+        "text": "Are we ordering in?"
+      },
+      {
+        "readAt": 1585584288724,
+        "sentAt": 1585584288724,
+        "by": "Tair Sasson",
+        "text": "Sushi?"
+      },
+      {
+        "readAt": 1585584288724,
+        "sentAt": 1585584288724,
+        "by": "Yarin Sasson",
+        "text": "I guess it's fine as long as we order Moon"
+      }
+    ]
+  },
+  {
+    "title": "Tair Sasson",
+    "imgUrl": "https://www.w3schools.com/w3images/avatar2.png",
+
+    "messages": [
+      {
+        "readAt": 1585584288724,
+        "sentAt": 1585584288724,
+        "by": "Tair Sasson",
+        "text": "Hey are you coming for a dinner tonight?"
+      },
+      {
+        "readAt": 1585584288724,
+        "sentAt": 1585584288724,
+        "by": "Yarin Sasson",
+        "text": "Are we ordering in?"
+      },
+      {
+        "readAt": 1585584288724,
+        "sentAt": 1585584288724,
+        "by": "Tair Sasson",
+        "text": "Sushi?"
+      },
+      {
+        "readAt": 1585584288724,
+        "sentAt": 1585584288724,
+        "by": "Yarin Sasson",
+        "text": "I guess it's fine as long as we order Moon"
+      }
+    ]
+  },
+  {
+    "title": "Tair Sasson",
+    "imgUrl": "https://www.w3schools.com/w3images/avatar2.png",
+
+    "messages": [
+      {
+        "readAt": 1585584288724,
+        "sentAt": 1585584288724,
+        "by": "Tair Sasson",
+        "text": "Hey are you coming for a dinner tonight?"
+      },
+      {
+        "readAt": 1585584288724,
+        "sentAt": 1585584288724,
+        "by": "Yarin Sasson",
+        "text": "Are we ordering in?"
+      },
+      {
+        "readAt": 1585584288724,
+        "sentAt": 1585584288724,
+        "by": "Tair Sasson",
+        "text": "Sushi?"
+      },
+      {
+        "readAt": 1585584288724,
+        "sentAt": 1585584288724,
+        "by": "Yarin Sasson",
+        "text": "I guess it's fine as long as we order Moon"
+      }
+    ]
+  }
+]
